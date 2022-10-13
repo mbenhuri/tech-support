@@ -1,0 +1,46 @@
+
+#This was created 10/13/2022 and accurate as of then. It will change. 
+
+This account doesn't have a username and password. What happens is you use your own user name and password to sign into it. Because it became disconnected we simply need to remove from settings and add back.
+
+Go to Settings
+
+Select Mail
+
+Select Accounts
+
+Select existing Lets Connect account 
+
+Press Delete button
+
+Go back to Settings - Mail -  Accounts
+
+Press Add Account
+
+Press Microsoft Exchange
+
+Type in Email sharedmailbox@exampledomain.com
+
+Type Description "Shared Mailbox"
+
+Press Next
+
+Select Sign In
+
+The Microsoft 365 Log in Screen should appear
+
+Press "Sign in with another account"
+
+Type youremail@exampledomain.com
+
+Press Next
+
+Type your password
+
+Press Next
+
+Confirm MFA
+
+It will ask you what to sync, make sure that Mail is GREEN
+
+Press Done
